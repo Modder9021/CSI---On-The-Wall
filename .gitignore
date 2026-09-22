@@ -1,0 +1,11 @@
+﻿# Godot-generated files
+.godot/
+.import/
+
+# Exported game builds
+export/
+exports/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
