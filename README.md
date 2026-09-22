@@ -13,6 +13,9 @@ On the Wall is designed for Gen Z players ages 13-30 who enjoy short narrative m
 - Make dialogue choices that affect flashbacks and endings.
 - Solve clue-based puzzles to unlock new story areas.
 
-
-  
+## UI/UX Plan
+-Focusing on incorporating assets
+-How the user views the game
+-User Experience
+-Buttons, Menus, Shops (?), Screens, Text
 
