@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://bdx4xpiywb0qh"]
+
+[node name="Main" type="Node2D" unique_id=479922081]
+
+[node name="Label" type="Label" parent="." unique_id=441963279]
+offset_right = 574.0
+offset_bottom = 97.0
+text = "On The Wall"
